@@ -1,0 +1,21 @@
+Course Name:             Introduction to Computer Programming Fundamentals
+Course ID:               CSCI 101
+Course Location:         SAL 101
+
+Name                     ID             Average        Grade
+Adams, John              111223333      89.20          B
+Carlton Jones, Miriam    333221111      100.00         A
+Dolan III, Jack          999887777      74.00          C
+Gardner, Helen           777886666      88.30          B
+Hanker, Allan            111887777      75.06          C
+Hawkins, Gary            888776666      73.50          C
+Jackson, Haward          888889999      80.00          B
+Jankins, Hal             111221111      -1.00          I
+Johnsen, John            111334444      91.36          A
+Jordan, Phil             777886666      -1.00          I
+Mac Alister, Jerry       111997777      88.48          B
+Morgan Foley, Nancy      111446666      -1.00          I
+Smith Jr., Willy         222114444      79.20          C
+Williams, Harry          222334444      70.20          C
+
+Class Average for 11 students is: 82.39
